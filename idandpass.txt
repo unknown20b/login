@@ -1,5 +1,7 @@
 if("unknown20b" == IDS) then
-	if("0000" == password) then
-		print("Hello")
-	end
+    if("0000" == password) then
+        print("Hello")
+    end
 end
+
+print(IDS, password)
