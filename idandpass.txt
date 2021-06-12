@@ -1,0 +1,5 @@
+if("unknown20b" == _G.IDS) then
+	if("0000" == _G.password) then
+		print("Hello")
+	end
+end
